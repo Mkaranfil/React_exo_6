@@ -1,0 +1,27 @@
+
+.article>img{
+
+    height: 200px;
+    width: 200px;
+}
+
+.article{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 20rem;
+    background-color: #383838;
+
+}
+
+.article>.text{
+
+    
+    width: 35%;
+
+}
+
+.text>p>span{
+    font-size: 25px;
+    color: #85FDA3;
+}
